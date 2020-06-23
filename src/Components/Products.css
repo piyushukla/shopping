@@ -1,0 +1,26 @@
+.main {
+
+    margin-top: 110px;
+    margin-left: 180px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+
+
+
+/* .card-container {
+
+    list-style: none;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+
+}
+
+
+.hover-img:hover {
+    transform: scale(1.05);
+} */
